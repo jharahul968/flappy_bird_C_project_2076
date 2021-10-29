@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1581798270 source:c:\users\rijan\desktop\cproject\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<SDL2/SDL_ttf.h>
+	"main.h"
+	<SDL2/SDL_mixer.h>
+
+1581798180 c:\users\rijan\desktop\cproject\main.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<stdbool.h>
+
+1582189803 source:c:\users\acer\desktop\cproject-master\cproject-master\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<SDL2/SDL_ttf.h>
+	"main.h"
+	<SDL2/SDL_mixer.h>
+
+1581818882 c:\users\acer\desktop\cproject-master\cproject-master\main.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<stdbool.h>
+
